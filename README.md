@@ -23,3 +23,15 @@ If you find the code useful, please consider citing our paper using the followin
 
 
 Download COD10K training set through [Google Drive link](https://drive.google.com/file/d/1D9bf1KeeCJsxxri6d2qAC7z6O1X_fxpt/view?usp=sharing) or [Baidu Pan link](https://pan.baidu.com/s/1XL6OjpDF-MVnXOY6-bdaBg) with the fetch code:djq2.
+
+
+## Usage
+1. Training
+```
+CUDA_VISIBLE_DEVICES=0,1 python-m torch.distributed.launch --nproc_per_node=2 --master_port=3000 train.py
+```
+
+2. Inference
+```
+CUDA_VISIBLE_DEVICES=0 python test.py
+```
