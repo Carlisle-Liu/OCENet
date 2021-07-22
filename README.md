@@ -1,5 +1,6 @@
 # Online Confidence Estimation - OCENet
 <!-- <p align="center"><img src="introduction_figure.png" alt="introduction_figure" width="90%"></p> -->
+![alt_text](./Network-Overview_v2.jpg)
 
 The implementation of **Confidence-Aware Learning for Camouflaged Object Detection**, Jiawei Liu, Jing Zhang and Nick Barnes, [[Paper]](https://arxiv.org/abs/2106.11641).
 
