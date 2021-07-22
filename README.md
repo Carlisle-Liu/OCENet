@@ -35,3 +35,6 @@ CUDA_VISIBLE_DEVICES=0,1 python-m torch.distributed.launch --nproc_per_node=2 --
 ```
 CUDA_VISIBLE_DEVICES=0 python test.py
 ```
+
+3. Evaluation
+Please use the [SOD evaluation toolbox](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox.git) provided by [jiwei0921](https://github.com/jiwei0921).
