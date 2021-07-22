@@ -20,3 +20,5 @@ If you find the code useful, please consider citing our paper using the followin
 - CUDA 10.1
 - 2 x 2080Ti GPU
 
+
+Download COD10K training set through [Google Drive link](https://drive.google.com/file/d/1D9bf1KeeCJsxxri6d2qAC7z6O1X_fxpt/view?usp=sharing) or [Baidu Pan link](https://pan.baidu.com/s/1XL6OjpDF-MVnXOY6-bdaBg) with the fetch code:djq2.
