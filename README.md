@@ -2,16 +2,18 @@
 <!-- <p align="center"><img src="introduction_figure.png" alt="introduction_figure" width="90%"></p> -->
 ![alt_text](./Network-Overview_v2.jpg)
 
-The implementation of **Confidence-Aware Learning for Camouflaged Object Detection**, Jiawei Liu, Jing Zhang and Nick Barnes, [[Paper]](https://arxiv.org/abs/2106.11641).
+The implementation of **Modeling Aleatoric Uncertainty for Camouflaged Object Detection**, Jiawei Liu, Jing Zhang and Nick Barnes, [[Paper]](https://openaccess.thecvf.com/content/WACV2022/papers/Liu_Modeling_Aleatoric_Uncertainty_for_Camouflaged_Object_Detection_WACV_2022_paper.pdf).
 
 ## Citation
 If you find the code useful, please consider citing our paper using the following BibTeX entry.
 ```
-@article{liu2021confidence,
-  title={Confidence-Aware Learning for Camouflaged Object Detection},
-  author={Liu, Jiawei and Zhang, Jing and Barnes, Nick},
-  journal={arXiv preprint arXiv:2106.11641},
-  year={2021}
+@InProceedings{Liu_2022_WACV,
+    author    = {Liu, Jiawei and Zhang, Jing and Barnes, Nick},
+    title     = {Modeling Aleatoric Uncertainty for Camouflaged Object Detection},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {January},
+    year      = {2022},
+    pages     = {1445-1454}
 }
 ```
 
