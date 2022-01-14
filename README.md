@@ -34,6 +34,7 @@ CUDA_VISIBLE_DEVICES=0,1 python -m torch.distributed.launch --nproc_per_node=2 -
 ```
 
 2. Inference
+Download the weight of CODNet from the [[Google Drive]](https://drive.google.com/drive/folders/10wGvx2M_LRrpL_gQu4He9U7kk12S64vM?usp=sharing)
 ```
 CUDA_VISIBLE_DEVICES=0 python test.py
 ```
