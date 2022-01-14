@@ -41,3 +41,7 @@ CUDA_VISIBLE_DEVICES=0 python test.py
 3. Evaluation
 
 Please use the [SOD evaluation toolbox](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox.git) provided by [jiwei0921](https://github.com/jiwei0921).
+
+
+## Results
+The prediction results can be downloaded from [[Google Drive]](https://drive.google.com/drive/folders/1CEA6GUtV0nwlamntA25LmCNI-KCXg4WL?usp=sharing)
